@@ -48,19 +48,3 @@ if __name__ == "__main__":
     # smallest_integer(232792560, 20)
     # smallest_mod_through_20_iter()
     product_of_mods()
-
-
-    # 2 / 1 = 2 ; so 1 * 2 
-    # 3 / 1 = 3 ; 3 / 2 <- no; 3 * 2
-    # 4 / 1 = 4 ; 4 / 2 = 2 <- result is 2
-
-    # not including number itself 
-    # 1) if evenly divisible, do the division, get result
-    # 2) take the result of the last evenly divisible iteration and multiple by last step
-
-    # from time import sleep
-    # for i in range(400):
-    #     print("\r" + str(i), end="")
-    #     sleep(0.5)
-    
-    
