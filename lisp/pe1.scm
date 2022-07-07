@@ -1,5 +1,5 @@
 #lang racket
-(import "imports.scm")
+(load "imports.scm")
 
 ;; Multiples of 3 and 5
 ;; Problem 1
